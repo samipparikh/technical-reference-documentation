@@ -2,12 +2,12 @@
 include::./common_docinfo_vars.adoc[]
 
 // Variables & Attributes
-:title: Partner PartnerProd with SUSE SUSEProd
-:productname: SUSEProd version
-:author1: First Last, title, SUSE
-:author2: First Last, title, Partner
-:revdate: Month dd, YYYY
-:revnumber: YYYYmmdd
+:title: Upbound Universal Crossplane with SUSE Rancher
+:productname: SUSE Rancher 2.6
+:author1: Yury Tsarev, Principal Solutions Architect, Upbound
+:author2: Samip Parikh, Alliances Solutions Architect, SUSE
+:revdate: April 13, 2022
+:revnumber: 20220413
 //:toc2:
 //:toc-title: {title}
 //:toclevels: 4
