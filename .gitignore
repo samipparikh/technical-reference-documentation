@@ -8,3 +8,5 @@ locale/*/build/
 *.orig
 .directory
 .vscode/
+Kubernetes/start/ondat/media/src/png/rancher_ondat_server-ui-components-status.png
+Kubernetes/start/ondat/media/src/png/rancher_ondat_server-ui-custom-ondat-storageclass.png
